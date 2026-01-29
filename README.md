@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VISHWAS-KADAM-GIT/VISHWAS-KADAM-GIT/main/github-header-banner.png" alt="Vishwas Banner" width="100%">
+  <img src="github-header-banner.png" alt="Vishwas Data Analyst Banner" width="100%">
 </p>
 
 # Hi, I’m Vishwas 👋
@@ -40,13 +40,13 @@ I am a **Data Analyst** focused on clarity and impact. I specialize in bridging 
 
 ## 🌐 Let's Connect!
 
-**Email Me Directly:** [vishwaskadam866@gmail.com](mailto:vishwaskadam866@gmail.com)
-
 <p align="left">
   <a href="https://www.linkedin.com/in/vishwas-kadam-206474377">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+**Email Me Directly:** [vishwaskadam866@gmail.com](mailto:vishwaskadam866@gmail.com)
 
 ---
 <p align="center"><i>"Data analysis is not about showing everything. It’s about showing what matters."</i></p>
