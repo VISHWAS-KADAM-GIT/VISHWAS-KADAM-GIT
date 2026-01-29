@@ -28,12 +28,14 @@ I am a **Data Analyst** focused on clarity and impact. I specialize in bridging 
 
 ## 📂 Featured Projects
 
-### 📊 Zomato Business Intelligence Dashboard
-* **Goal:** Analyze consumer behavior and restaurant performance in the food-tech space.
-* **Stack:** Power BI, DAX, Data Modeling.
+### 🛍️ Myntra Sales Interactive Dashboard
+* **Goal:** Analyze E-commerce sales performance, customer demographics, and product trends.
+* **Insights:** Visualized key metrics like Total Revenue, Average Order Value (AOV), and category-wise growth.
+* **Stack:** Power BI, DAX, Power Query.
 
 ### 🧪 Exploratory Data Analysis (Python)
 * **Goal:** Uncovering hidden patterns in messy datasets using Python.
+* **Key Achievement:** Cleaned and transformed raw data to identify sales trends and seasonal anomalies.
 * **Stack:** Python, Pandas, Seaborn, Matplotlib.
 
 ---
