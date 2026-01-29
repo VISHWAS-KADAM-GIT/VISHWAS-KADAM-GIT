@@ -1,16 +1,52 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VISHWAS-KADAM-GIT/VISHWAS-KADAM-GIT/main/github-header-banner.png" alt="Vishwas Banner" width="100%">
+</p>
 
-<!--
-**VISHWAS-KADAM-GIT/VISHWAS-KADAM-GIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Vishwas 👋
+**Data Analyst | Turning raw data into clear, actionable insights**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+I am a **Data Analyst** focused on clarity and impact. I specialize in bridging the gap between complex datasets and strategic decision-making.
+
+- 🔭 I’m currently working on enhancing my **SQL optimization** and **Python automation** skills.
+- ⚡ I believe good analysis is not about complexity — it’s about **asking the right questions**.
+- 🌱 Open to **Internships** and **Entry-level Data Analyst** opportunities.
+
+---
+
+## 💻 Technical Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
+| **BI Tools** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| **Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) |
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Zomato Business Intelligence Dashboard
+* **Goal:** Analyze consumer behavior and restaurant performance in the food-tech space.
+* **Stack:** Power BI, DAX, Data Modeling.
+
+### 🧪 Exploratory Data Analysis (Python)
+* **Goal:** Uncovering hidden patterns in messy datasets using Python.
+* **Stack:** Python, Pandas, Seaborn, Matplotlib.
+
+---
+
+## 🌐 Let's Connect!
+
+**Email Me Directly:** [vishwaskadam866@gmail.com](mailto:vishwaskadam866@gmail.com)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishwas-kadam-206474377">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+<p align="center"><i>"Data analysis is not about showing everything. It’s about showing what matters."</i></p>
