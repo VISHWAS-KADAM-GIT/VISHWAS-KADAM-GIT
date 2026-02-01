@@ -71,7 +71,6 @@ I enjoy working at the intersection of **data, logic, and decision-making**.
 
 ---
 
-## 🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
